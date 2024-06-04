@@ -23,9 +23,13 @@ We offer concise and informative cheat sheets to help you quickly recall SQL com
 Explore essential SQL commands with practical examples:
 
 Select Statement
+
 Group By
+
 Having
+
 Order By
+
 Join Statements
 
 Execution Order
@@ -36,16 +40,22 @@ SQL Joins
 Master different types of SQL joins:
 
 Inner Join
+
 Left Join
+
 Right Join
+
 Full Join
 
 Practice Files
 Practice your SQL skills with our curated SQL practice files:
 
 SQL Practice 01
+
 SQL Practice 02
+
 Contributing
+
 We welcome contributions! If you'd like to contribute, please follow these guidelines:
 
 - Fork the repository
@@ -62,13 +72,6 @@ I am Fatma Nur Azman, a Data Analyst with 20 years of experience in data science
 - [GitHub](https://github.com/Fatma-Nur-Azman)
 - [Website](https://fatmanurazman.vercel.app/)
 
-## Usage
-
-Clone the repository and open the SQL file to explore .
-
-```sh
-git clone https://github.com/Fatma-Nur-Azman/SQL.git
-
 - License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
@@ -76,4 +79,10 @@ Enhance your SQL skills, contribute to the community, and become an SQL master! 
 
 Happy Coding! 💻✨
 
+## Usage
+
+Clone the repository and open the SQL file to explore .
+
+```sh
+git clone https://github.com/Fatma-Nur-Azman/SQL.git
 
