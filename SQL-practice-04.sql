@@ -181,3 +181,7 @@ SELECT s.first_name,
     c.course_name
 FROM students s 
 JOIN courses c ON s.student_id = c.course_id;
+
+By Fatma Nur Azman
+
+https://github.com/Fatma-Nur-Azman
