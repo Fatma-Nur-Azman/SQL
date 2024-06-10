@@ -182,7 +182,9 @@ SELECT *, LENGTH(name) AS name_len
 FROM teachers
 ORDER BY LENGTH(name) DESC;
 
+By Fatma Nur Azman
 
+https://github.com/Fatma-Nur-Azman
 
 
 
