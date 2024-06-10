@@ -216,3 +216,6 @@ SELECT city,
 FROM employees e  
 GROUP BY city;
 
+By Fatma Nur Azman
+
+https://github.com/Fatma-Nur-Azman
