@@ -246,3 +246,6 @@ UPDATE personal
 SET salary = 65000
 WHERE name = 'John Doe';
 
+By Fatma Nur Azman
+
+https://github.com/Fatma-Nur-Azman
