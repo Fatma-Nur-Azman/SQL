@@ -259,3 +259,7 @@ SELECT d.departmentname , avg(salary) AS avg_salary
 FROM Employees e
 JOIN Departments d ON e.departmentid = d.departmentid 
 GROUP BY d.departmentid;
+
+By Fatma Nur Azman
+
+https://github.com/Fatma-Nur-Azman
