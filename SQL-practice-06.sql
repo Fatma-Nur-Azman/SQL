@@ -150,7 +150,9 @@ JOIN orders o ON c.customer_id = o.customer_id
 GROUP BY c.customer_id, c.first_name, c.last_name
 HAVING COUNT(o.order_id) > 1;
 
+By Fatma Nur Azman
 
+https://github.com/Fatma-Nur-Azman
 
 
 
