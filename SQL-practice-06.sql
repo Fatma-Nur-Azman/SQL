@@ -150,48 +150,7 @@ JOIN orders o ON c.customer_id = o.customer_id
 GROUP BY c.customer_id, c.first_name, c.last_name
 HAVING COUNT(o.order_id) > 1;
 
-Toplam sipariş miktarı 200 TL'den fazla olan siparişleri listeleyin.
 
---List orders with total amounts greater than 200 TL.
-Her şehirde kaç müşteri olduğunu bulun.
-
---Find the number of customers in each city.
-
-SELECT *
-FROM customers;
-
-SELECT *
-FROM orders;
-
-SELECT *
-FROM order_items;
-Her ülkede kaç müşteri olduğunu bulun.
-
---Find the number of customers in each country.
-En çok ürün sipariş eden müşteriyi bulun.
-
---Find the customer who ordered the most products.
-Her siparişteki toplam ürün miktarını bulun.
-
---Find the total quantity of products in each order.
-Her müşterinin ortalama sipariş miktarını bulun.
-
---Find the average order amount of each customer.
-En çok farklı ürünü sipariş eden müşteriyi bulun.
-
---Find the customer who ordered the most different products.
-Sipariş başına ortalama ürün fiyatını bulun.
-
---Find the average product price per order.
-En çok sipariş verilen şehri bulun.
-
---Find the city with the most orders.
-En çok sipariş verilen tarihi bulun.
-
---Find the date with the most orders.
-En az sipariş verilen müşteriyi bulun.
-
---Find the customer who placed the fewest orders.
 
 
 
