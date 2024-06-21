@@ -294,3 +294,7 @@ SELECT EXTRACT (YEAR FROM hiredate) AS year_,
 FROM Employees
 GROUP BY EXTRACT (YEAR FROM hiredate)
 ORDER BY EXTRACT (YEAR FROM hiredate) DESC;
+
+By Fatma Nur Azman
+
+https://github.com/Fatma-Nur-Azman
