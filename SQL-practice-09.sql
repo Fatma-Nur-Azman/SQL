@@ -216,3 +216,7 @@ FROM projects p
 JOIN Assignments a ON a.projectid = p.projectid
 JOIN Employees e ON a.employeeid = e.employeeid
 GROUP BY p.projectname,p.budget;
+
+By Fatma Nur Azman
+
+https://github.com/Fatma-Nur-Azman
