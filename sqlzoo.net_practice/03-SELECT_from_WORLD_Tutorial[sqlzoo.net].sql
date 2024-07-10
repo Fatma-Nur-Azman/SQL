@@ -1,6 +1,8 @@
 
 --link : https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
 
+--use the table given in '01-data.sql' as the table !!!!
+
 SELECT * FROM world;
 
 --1 Show the name, continent and population of all countries
@@ -131,9 +133,16 @@ WHERE
     AND name NOT LIKE '%.%'
     AND name NOT LIKE '%-%' 
     
-    By Fatma Nur Azman
+    
+By Fatma Nur Azman
 
-https://github.com/Fatma-Nur-Azman
+📧 Contact
+
+- [LinkedIn]    https://www.linkedin.com/in/fatma-nur-azman/
+- [GitHub]      https://github.com/Fatma-Nur-Azman/
+- [Website]     https://fatmanurazman.vercel.app/
+- [Kaggle]      https://www.kaggle.com/fnurazman
+
 
 
 
