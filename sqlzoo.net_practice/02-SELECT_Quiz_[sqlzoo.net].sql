@@ -1,6 +1,9 @@
 
 -- https://sqlzoo.net/wiki/SELECT_Quiz 
 
+
+--use the table given in '01-data.sql' as the table !!!!
+
 -- Some questions concerning basic SQL statements 
 
 
@@ -52,4 +55,9 @@ WHERE name IN ('China', 'Nigeria', 'France', 'Australia')
 
 By Fatma Nur Azman
 
-https://github.com/Fatma-Nur-Azman
+📧 Contact
+
+- [LinkedIn]    https://www.linkedin.com/in/fatma-nur-azman/
+- [GitHub]      https://github.com/Fatma-Nur-Azman/
+- [Website]     https://fatmanurazman.vercel.app/
+- [Kaggle]      https://www.kaggle.com/fnurazman
