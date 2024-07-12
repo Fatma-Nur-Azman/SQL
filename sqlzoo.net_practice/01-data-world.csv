@@ -1,0 +1,148 @@
+name,continent,area,population,gdp,capital,tld,flag,wikiref
+"
+('Afghanistan",Asia,652867,34262840,2021000000,Kabul,.af,https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg,Q889
+Albania,Europe,27398,2761785,20177000000,Tirana,.al,https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg,Q222
+Algeria,Africa,2381741,45400000,206007000000,Algiers,.dz,https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg,Q262
+Andorra,Europe,468,83523,3669000000,Andorra la Vella,.ad,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg,Q228
+Angola,Africa,1246700,33086278,117877000000,Luanda,.ao,https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg,Q916
+Antigua and Barbuda,North America,442,100772,1864000000,Saint John''s,.ag,https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg,Q781
+Argentina,South America,2736690,46044703,641102000000,Buenos Aires,.ar,https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg,Q414
+Armenia,Asia,28342,2981200,23725000000,Yerevan,.am,https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg,Q399
+Australia,Insular Oceania,7633565,26708900,1707548000000,Canberra,.au,https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg,Q408
+Austria,Europe,82445,9129652,515199000000,Vienna,.at,https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg,Q40
+Azerbaijan,Asia,86100,10135373,70030000000,Baku,.az,https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg,Q227
+Bahrain,Asia,786,1504365,44870000000,Manama,.bh,https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg,Q398
+Bangladesh,Asia,134208,169828911,420516000000,Dhaka,.bd,https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg,Q902
+Barbados,North America,431,267800,6117000000,Bridgetown,.bb,https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg,Q244
+Belarus,Europe,202900,9200617,73543000000,Minsk,.by,https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg,Q184
+Belgium,Europe,30278,11765225,624248000000,City of Brussels,.be,https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg,Q31
+Belize,North America,22806,441471,3162000000,Belmopan,.bz,https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg,Q242
+Benin,Africa,114305,12606998,19236000000,Porto-Novo,.bj,https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg,Q962
+Bhutan,Asia,38394,763200,2683000000,Thimphu,.bt,https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg,Q917
+Bolivia,South America,1083301,12006031,46097000000,Sucre,.bo,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg,Q750
+Bosnia and Herzegovina,Europe,51187,3277082,28488000000,Sarajevo,.ba,https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg,Q225
+Botswana,Africa,566730,2410338,19572000000,Gaborone,.bw,https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg,Q963
+Brazil,South America,8460415,203062512,2081235000000,BrasÃ­lia,.br,https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg,Q155
+Brunei,Asia,5265,440715,15988000000,Bandar Seri Begawan,.bn,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg,Q921
+Bulgaria,Europe,108612,6447710,100635000000,Sofia,.bg,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg,Q219
+Burkina Faso,Africa,273602,22185654,21076000000,Ouagadougou,.bf,https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg,Q965
+Burundi,Africa,25680,12837740,3234000000,Gitega,.bi,https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg,Q967
+Cambodia,Asia,176515,15552211,30628000000,Phnom Penh,.kh,https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg,Q424
+Cameroon,Africa,472710,24348251,48625000000,YaoundÃ©,.cm,https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg,Q1009
+Canada,North America,9093507,40282200,2089672000000,Ottawa,.ca,https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg,Q16
+Cape Verde,Africa,4033,569509,2468000000,Praia,.cv,https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg,Q1011
+Central African Republic,Africa,622984,5633412,2736000000,Bangui,.cf,https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg,Q929
+Chad,Africa,1259200,16818391,11962000000,N''Djamena,.td,https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg,Q657
+Chile,South America,743812,19960889,358557000000,Santiago,.cl,https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg,Q298
+China,Asia,9326410,1411750000,19373586000000,Beijing,.cn,https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg,Q148
+Colombia,South America,1038700,52215503,334689000000,BogotÃ¡,.co,https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg,Q739
+Comoros,Africa,1862,758316,1348000000,Moroni,.km,https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg,Q970
+Costa Rica,North America,51060,5044197,77777000000,San JosÃ©,.cr,https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg,Q800
+Croatia,Europe,55974,3888529,78881000000,Zagreb,.hr,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg,Q224
+Cuba,North America,109884,11089511,107352000000,Havana,.cu,https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg,Q241
+Cyprus,Asia,9241,918100,30864000000,Nicosia,.cy,https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg,Q229
+Czech Republic,Europe,77171,10827529,330483000000,Prague,.cz,https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg,Q213
+Democratic Republic of the Congo,Africa,2267048,95370000,69474000000,Kinshasa,.cd,https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg,Q974
+Denmark,Europe,42434,5944145,405626000000,Copenhagen,.dk,https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg,Q35
+Djibouti,Africa,23180,1001454,3916000000,Djibouti,.dj,https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg,Q977
+Dominica,North America,751,67408,681000000,Roseau,.dm,https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg,Q784
+Dominican Republic,North America,48320,10535535,121289000000,Santo Domingo,.do,https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg,Q786
+East Timor,Asia,14919,1354662,1988000000,Dili,.tl,https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg,Q574
+Ecuador,South America,256369,18355800,121291000000,Quito,.ec,https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg,Q736
+Egypt,Africa,995450,105231000,378110000000,Cairo,NULL,NULL,NULL
+"
+('Malaysia",Asia,329613,33200000,447026000000,Kuala Lumpur,.my,https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg,Q833
+Maldives,Asia,298,397372,7004000000,MalÃ©,.mv,https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg,Q826
+Mali,Africa,1220190,23293699,20776000000,Bamako,.ml,https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg,Q912
+Malta,Europe,316,519562,19405000000,Valletta,.mt,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg,Q233
+Marshall Islands,Insular Oceania,181,39262,291000000,Majuro,.mh,https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg,Q709
+Mauritania,Africa,1025520,4372037,10966000000,Nouakchott,.mr,https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg,Q1025
+Mauritius,Africa,2030,1261196,14570000000,Port Louis,.mu,https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg,Q1027
+Mexico,North America,1943945,129035733,1663164000000,Mexico City,.mx,https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg,Q96
+Moldova,Europe,32891,2604000,15829000000,ChiÈ™inÄƒu,.md,https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg,Q217
+Monaco,Europe,2,39150,2021000000,Monaco City,.mc,https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg,Q235
+Mongolia,Asia,1553556,3457548,16908000000,Ulaanbaatar,.mn,https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg,Q711
+Montenegro,Europe,13452,616695,7027000000,Podgorica,.me,https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg,Q236
+Morocco,Africa,446300,37076300,138781000000,Rabat,.ma,https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg,Q1028
+Mozambique,Africa,786380,32419747,19909000000,Maputo,.mz,https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg,Q1029
+Myanmar,Asia,653508,55770232,63988000000,Naypyidaw,.mm,https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg,Q836
+Namibia,Africa,823290,2641857,13486000000,Windhoek,.na,https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg,Q1030
+Nauru,Insular Oceania,21,11832,151000000,Yaren District,.nr,https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg,Q697
+Nepal,Asia,143686,29164578,42097000000,Kathmandu,.np,https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg,Q837
+Netherlands,Europe,33893,17905700,1080880000000,Amsterdam,.nl,https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg,Q55
+New Zealand,Insular Oceania,262443,5223100,251969000000,Wellington,.nz,https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg,Q664
+Nicaragua,North America,119990,6595674,17287000000,Managua,.ni,https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg,Q811
+Niger,Africa,1266700,24112753,16617000000,Niamey,.ne,https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg,Q1032
+Nigeria,Africa,910768,216783400,506601000000,Abuja,.ng,https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg,Q1033
+North Korea,Asia,120538,25660000,2021000000,Pyongyang,.kp,https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg,Q423
+North Macedonia,Europe,25433,1832696,15278000000,Skopje,.mk,https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg,Q221
+Norway,Europe,365957,5514042,554105000000,Oslo,.no,https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg,Q20
+Oman,Asia,309500,5079514,104902000000,Muscat,.om,https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg,Q842
+Pakistan,Asia,856690,241499431,376533000000,Islamabad,.pk,https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg,Q843
+Palau,Insular Oceania,459,16733,262000000,Ngerulmud,.pw,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg,Q695
+Panama,North America,74340,4278500,77257000000,Panama City,.pa,https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg,Q804
+Papua New Guinea,Insular Oceania,452860,11781559,31362000000,Port Moresby,.pg,https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg,Q691
+Paraguay,South America,397302,7453695,42820000000,AsunciÃ³n,.py,https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg,Q733
+Peru,South America,1279996,33396698,268235000000,Lima,.pe,https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg,Q419
+Philippines,Asia,298170,110684000,440901000000,Manila,.ph,https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg,Q928
+Poland,Europe,311888,37706000,748887000000,Warsaw,.pl,https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg,Q36
+Portugal,Europe,91119,10467366,267721000000,Lisbon,.pt,https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg,Q45
+Qatar,Asia,11586,3005069,219570000000,Doha,.qa,https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg,Q846
+Republic of Ireland,Europe,68883,5149139,594095000000,Dublin,.ie,https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg,Q27
+Republic of the Congo,Africa,341500,6106869,13031000000,Brazzaville,.cg,https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg,Q971
+Romania,Europe,231291,19053815,348902000000,Bucharest,.ro,https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg,Q218
+Russia,Europe,16378410,146424729,2062649000000,Moscow,.ru,https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg,Q159
+Rwanda,Africa,24668,13246394,13149000000,Kigali,.rw,https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg,Q1037
+Saint Kitts and Nevis,North America,261,47195,1052000000,Basseterre,.kn,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg,Q763
+Saint Lucia,North America,606,178696,2262000000,Castries,.lc,https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg,Q760
+Saint Vincent and the Grenadines,North America,389,110872,1039000000,Kingstown,.vc,https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg,Q757
+Samoa,Insular Oceania,2821,205557,898000000,Apia,.ws,https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg,Q683
+San Marino,Europe,61,33847,1807000000,San Marino,.sm,https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg,Q238
+Saudi Arabia,Asia,2149690,32175224,1061902000000,Riyadh,.sa,https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg,Q851
+SÃ£o TomÃ© and PrÃ­ncipe,Africa,964,214610,625000000,SÃ£o TomÃ©,.st,https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg,Q1039
+Senegal,Africa,192530,17223497,31221000000,Dakar,.sn,https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg,Q1041
+"
+('Serbia",Europe,88246,6647003,73961000000,Belgrade,.rs,https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg,Q403
+Seychelles,Africa,455,100447,1950000000,Victoria,.sc,https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg,Q1042
+Sierra Leone,Africa,71620,8494260,3520000000,Freetown,.sl,https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg,Q1044
+Singapore,Asia,716,5453600,515548000000,Singapore,.sg,https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg,Q334
+Slovakia,Europe,48105,5426857,127533000000,Bratislava,.sk,https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg,Q214
+Slovenia,Europe,20151,2117674,68108000000,Ljubljana,.si,https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg,Q215
+Solomon Islands,Insular Oceania,27986,728041,1701000000,Honiara,NULL,https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg,Q685
+Somalia,Africa,627337,18143379,8738000000,Mogadishu,.so,https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg,Q1045
+South Africa,Africa,1214470,60604992,399015000000,Pretoria,.za,https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg,Q258
+South Korea,Asia,99909,51439038,1721909000000,Seoul,.kr,https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg,Q884
+South Sudan,Africa,644329,13249924,7012000000,Juba,.ss,https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg,Q958
+Spain,Europe,498980,48345223,1492432000000,Madrid,.es,https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg,Q29
+Sri Lanka,Asia,62732,22181000,74404000000,Sri Jayawardenepura Kotte,.lk,https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg,Q854
+Sudan,Africa,1731671,41984500,46705000000,Khartoum,.sd,https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg,Q1049
+Suriname,South America,156000,616500,3470000000,Paramaribo,.sr,https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg,Q730
+Sweden,Europe,407284,10545310,599052000000,Stockholm,.se,https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg,Q34
+Switzerland,Europe,39997,8865270,869601000000,Bern,.ch,https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg,Q39
+Syria,Asia,183630,22923000,2021000000,Damascus,.sy,https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg,Q858
+Taiwan,Asia,32260,23373283,790728000000,Taipei,.tw,https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg,Q865
+Tajikistan,Asia,141510,10077600,12796000000,Dushanbe,.tj,https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg,Q863
+Tanzania,Africa,885800,61741120,85421000000,Dodoma,.tz,https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg,Q924
+Thailand,Asia,510890,68263022,574231000000,Bangkok,.th,https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg,Q869
+The Bahamas,North America,10010,397360,14114000000,Nassau,.bs,https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg,Q778
+The Gambia,Africa,10000,2417471,2277000000,Banjul,.gm,https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg,Q1005
+Togo,Africa,54385,8095498,9001000000,Lomé,.tg,https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg,Q945
+Tonga,Insular Oceania,717,100179,541000000,Nuku\alofa,.to,https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg,Q678
+Trinidad and Tobago,North America,5128,1365805,28223000000,Port of Spain,.tt,https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg,Q754
+Tunisia,Africa,155360,11803588,49815000000,Tunis,.tn,https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg,Q948
+Turkey,Asia,769632,85279553,1029303000000,Ankara,.tr,https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg,Q43
+Turkmenistan,Asia,469930,6516100,82649000000,Ashgabat,.tm,https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg,Q874
+Tuvalu,Insular Oceania,26,10679,65000000,Funafuti,.tv,https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg,Q672
+Uganda,Africa,197100,42885900,49792000000,Kampala,.ug,https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg,Q1036
+Ukraine,Europe,579300,41130432,148712000000,Kyiv,.ua,https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg,Q212
+United Arab Emirates,Asia,83600,9282410,498978000000,Abu Dhabi,.ae,https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg,Q878
+United Kingdom,Europe,241930,67026292,3158938000000,London,.uk,https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg,Q145
+United States,North America,9147593,335317000,26854599000000,Washington,D.C.,.us,https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg,Q30
+Uruguay,South America,175015,3566550,77313000000,Montevideo,.uy,https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg,Q77
+Uzbekistan,Asia,425400,36197788,92332000000,Tashkent,.uz,https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg,Q265
+Vanuatu,Insular Oceania,12189,301295,1064000000,Port Vila,.vu,https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg,Q686
+Venezuela,South America,882050,28302000,96628000000,Caracas,.ve,https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg,Q717
+Vietnam,Asia,310070,100000000,449094000000,Hanoi,.vn,https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg,Q881
+Yemen,Asia,527968,31890000,19529000000,Sanaa,.ye,https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg,Q805
+Zambia,Africa,743398,19610769,29272000000,Lusaka,.zm,https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg,Q953
+Zimbabwe,Africa,386847,15178979,29931000000,Harare,.zw,https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg,Q954
